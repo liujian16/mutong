@@ -1,0 +1,11 @@
+{
+	"name":"mutong",
+	"description":"qiuniu api",
+	"version":"0.0.1",
+	"private":"false",
+	"dependencies":{
+		"restler":"liujian16/restler",
+		"q":"1.x"
+	}
+
+}
